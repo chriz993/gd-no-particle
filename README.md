@@ -12,7 +12,7 @@
  4. Paste the files there.
  5. Click "Replace the files in this destination
  6. Open Geometry Dash
- 7. Boom! ALl particles must be gone. (If you use LDM in the settings, it already has no particles by default)
+ 7. Boom! ALL particles must be gone. (If you use LDM in the settings, it already has no particles by default)
  
 # Contact
  - Twitter: [@chriz993](https://twitter.com/chriz993)
