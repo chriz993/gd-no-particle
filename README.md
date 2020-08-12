@@ -15,10 +15,9 @@
  7. Boom! ALl particles must be gone. (If you use LDM in the settings, it already has no particles by default)
  
 # Contact
- If you ran into any issues or have questions, contact me trough:
- Twitter: [@chriz993](https://twitter.com/chriz993)
- Discord: Chriz99#4170
- Steam: [Chriz99](https://steamcommunity.com/profiles/76561198963387650/)
+ - Twitter: [@chriz993](https://twitter.com/chriz993)
+ - Discord: Chriz99#4170
+ - Steam: [Chriz99](https://steamcommunity.com/profiles/76561198963387650/)
  
 # Where can I get Geometry Dash?
  You can get Geometry Dash from Steam, click [here](https://store.steampowered.com/app/322170/Geometry_Dash/) to find out.
