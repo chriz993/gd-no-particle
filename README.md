@@ -10,7 +10,7 @@
  2. Copy them
  3. Go to This PC\C:\Program Files (x--)\Steam\steamapps\common\Geometry Dash\Resources.
  4. Paste the files there.
- 5. Click "Replace the files in this destination
+ 5. Click "Replace the files in this destination"
  6. Open Geometry Dash
  7. Boom! ALL particles must be gone. (If you use LDM in the settings, it already has no particles by default)
  
